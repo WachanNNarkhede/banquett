@@ -60,7 +60,7 @@ export default function Home() {
         <motion.div
           className="absolute inset-0 bg-cover bg-center opacity-20"
           style={{
-            backgroundImage: "url('/images/decor-overlay.png')",
+            backgroundImage: "url('/photoone.jpg ')",
             y: midgroundY,
             zIndex: 2
           }}
