@@ -9,5 +9,6 @@ export default defineConfig({
   colors: {
     gold: "#D4AF37", // Elegant gold color
   },
+  base: '/',
 
 })
