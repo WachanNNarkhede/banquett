@@ -185,13 +185,7 @@ export default function Footer() {
       </motion.div>
 
       {/* Decorative Bottom Pattern - thinner */}
-      <div 
-        className="absolute bottom-0 left-0 right-0 h-8 bg-repeat-x opacity-10"
-        style={{ 
-          backgroundImage: "url('/images/decor-pattern.png')",
-          backgroundSize: "200px auto"
-        }}
-      ></div>
+      
     </footer>
   );
 }
