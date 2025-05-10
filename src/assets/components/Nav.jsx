@@ -200,11 +200,11 @@ export const NavbarButton = ({
 // Example Usage Component
 export const NavbarDemo = () => {
   const navItems = [
-    { name: "Home", link: "#home" },
-    { name: "About", link: "#about" },
-    { name: "Services", link: "#services" },
-    { name: "Gallery", link: "#gallery" },
-    { name: "Contact", link: "#contact" }
+    { name: "Home", link: "home" },
+    { name: "About", link: "about" },
+    { name: "Services", link: "services" },
+    { name: "Gallery", link: "gallery" },
+    { name: "Contact", link: "contact" }
   ];
 
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
